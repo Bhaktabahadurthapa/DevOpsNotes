@@ -795,8 +795,6 @@
   795  git origin -u main
   796  git push origin -u main
   797  git remote -v
-  798  git remote set-url origin https://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@github.com/Bhaktabahadurthapa/DevOpsNotes.git (push)
-  799  git remote set-url origin https://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@github.com/Bhaktabahadurthapa/DevOpsNotes.git
   800  git push origin main
   801  ls
   802  vim secondlocal.txt
