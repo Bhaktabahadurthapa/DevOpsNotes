@@ -1,3 +1,14 @@
 Hello DevOps World
   Welcome to DevOps2024
-  
+  Linux
+Git and Git Hub
+Navigation and File Management:
+    cd: Change directory.
+    ls: List directory contents. Use ls -l for detailed information.
+    mkdir: Create directory.
+    rmdir: Remove empty directory.
+    cp: Copy files.
+    mv: Move or rename files.
+    rm: Delete files (use with caution!).
+    pwd: Print your current working directory.
+    file: Identify file type.
