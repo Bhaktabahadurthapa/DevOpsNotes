@@ -1,2 +1,809 @@
-
-Hello Linux for devops
+    1  whoami
+    2  ls
+    3  mkdir
+    4  apt-get update -y
+    5  get-get update 
+    6  apt-get update -y
+    7  sudo apt-get update -y
+    8  exit
+    9  uptime
+   10  echo "Hello DevOps World"
+   11  ls
+   12  vim Devops-roadmap.sh
+   13  ls
+   14  ls -l
+   15  mkdir scripts
+   16  ls
+   17  mv Devops-roadmap.sh scripts/
+   18  cd scripts/
+   19  ls
+   20  cd ..
+   21  ls
+   22  cd scripts/
+   23  ls
+   24  ls -l
+   25  chmod 755 Devops-roadmap.sh 
+   26  ls -l
+   27  ls
+   28  ls -l
+   29  ./Devops-roadmap.sh 
+   30  cat Devops-roadmap.sh 
+   31  vim Devops-roadmap.sh 
+   32  ./Devops-roadmap.sh 
+   33  vim Devops-roadmap.sh 
+   34  ls 
+   35  ./Devops-roadmap.sh 
+   36  ls
+   37  ls Devops
+   38  vim Devops-roadmap.sh 
+   39  ./Devops-roadmap.sh 
+   40  ls
+   41  ./Devops-roadmap.sh 
+   42  ls
+   43  rm -f Devops2024/
+   44  rm -f Devops2024
+   45  sudo rm -f Devops2024/
+   46  sudo rm -f Devops2024
+   47  sudo rm  Devops2024
+   48  ls
+   49  /var/folders/14/y07bk5vd27319dw5svpx6zl00000gn/T/TemporaryItems/NSIRD_screencaptureui_iBD7I9/Screenshot\ 2024-02-10\ at\ 8.40.11 AM.png 
+   50  ./Devops-roadmap.sh argument1 agrument2 
+   51  vim Devops-roadmap.sh 
+   52  ./Devops-roadmap.sh 
+   53  ./Devops-roadmap.sh Arguments1 Arguments2
+   54  vim Devops-roadmap.sh 
+   55  cd scripts/
+   56  ls
+   57  ./Devops-roadmap.sh kabita bhakta lisha
+   58  vim Devops-roadmap.sh 
+   59  ./Devops-roadmap.sh 
+   60  ./Devops-roadmap.sh kabita bhakta lisha
+   61  vim Devops-roadmap.sh 
+   62  ls
+   63  free -m
+   64  ls
+   65  exit
+   66  pwd
+   67  cd home
+   68  sudo -i
+   69  exit
+   70  ls
+   71  cd scripts/
+   72  ls
+   73  vim Devops-roadmap.sh 
+   74  vim check.sh
+   75  ./check.sh
+   76  chmod 755 check.sh 
+   77  ./check.sh 
+   78  vim check.sh 
+   79  ./check.sh 
+   80  vim check.sh 
+   81  ./check.sh 
+   82  ls
+   83  rm -f BhaktaDevOps/
+   84  rm -f BhaktaDevOps
+   85  rm BhaktaDevOps
+   86  sudo rm -f BhaktaDevOps
+   87  ls
+   88  vim custom_loop.sh
+   89  chmod 755 custom_loop.sh 
+   90  ./custom_loop.sh 
+   91  vim custom_loop.sh 
+   92  ./custom_loop.sh 
+   93  ls
+   94  ./custom_loop.sh 
+   95  vim custom_loop.sh 
+   96  ./custom_loop.sh 
+   97  vim custom_loop.sh 
+   98  ./custom_loop.sh 
+   99  vim custom_loop.sh 
+  100  ./custom_loop.sh 
+  101  ls
+  102  cd loop-check/
+  103  ls
+  104  cd ..
+  105  rm -r loop-check/
+  106  ls
+  107  cd BhaktaDev
+  108  ls
+  109  rm -r BhaktaDev
+  110  rm BhaktaDev
+  111  ls
+  112  cd Lishan/
+  113  ls
+  114  cd ..
+  115  vim custom_loop.sh 
+  116  cd ..
+  117  ls
+  118  mkdir backups
+  119  ls
+  120  cd scripts/
+  121  vim backups.sh
+  122  pwd
+  123  vim backups.sh
+  124  cd 
+  125  ls
+  126  cd backups/
+  127  pwd
+  128  cd  
+  129  cd scripts/
+  130  ls
+  131  vim backups.sh 
+  132  chmod 755 backups.sh 
+  133  ./backups.sh 
+  134  vim backups.sh 
+  135  ./backups.sh 
+  136  vim backups.sh 
+  137  ./backups.sh 
+  138  vim backups.sh 
+  139  ./backups.sh 
+  140  vim backups.sh 
+  141  ./backups.sh 
+  142  cd  
+  143  ls
+  144  cd backups/
+  145  ls
+  146  cd 
+  147  cd scripts/
+  148  ls
+  149  vim backups.sh 
+  150  chmod 755 backups.sh 
+  151  ./backups.sh 
+  152  ls
+  153  cd Lishan/
+  154  ls
+  155  pwd
+  156  cd 
+  157  cd scripts/
+  158  vim backups.sh 
+  159  ./backups.sh 
+  160  vim backups.sh 
+  161  ./backups.sh 
+  162  cd 
+  163  ls
+  164  cd backups/
+  165  ls
+  166  cd 
+  167  ls
+  168  cd backups/
+  169  ls
+  170  ls -l
+  171  tar -xzvf backup....2024-02-12-04-1707771859.tar.gz 
+  172  ls
+  173  tar -xzvf backup....2024-02-12-04-1707771859.tar.gz 
+  174  ls
+  175  cd 
+  176  ls
+  177  cd /home/
+  178  ls
+  179  cd ubuntu/
+  180  ls
+  181  cd backups/
+  182  ls
+  183  cd 
+  184  cd scripts/
+  185  ls
+  186  cd /home/
+  187  ls
+  188  cd /usr/
+  189  cd..
+  190  cd ..
+  191  cd /home/
+  192  ls
+  193  cd ubuntu/
+  194  ls
+  195  cd scripts/
+  196  ls
+  197  cd ..
+  198  cd backups/
+  199  ls
+  200  tar -cvpzf backup....2024-02-12-04-1707771859.tar.gz
+  201  tar -cvf backup....2024-02-12-04-1707771859.tar.gz
+  202  ls
+  203  tar -cvzf back /home/user
+  204  tar -cvzf backup....2024-02-12-04-1707771859.tar.gz /home/user
+  205  cd ..
+  206  cd scripts/
+  207  ls
+  208  ./backups.sh 
+  209  vim backups.sh 
+  210  ls
+  211  cd Lishan/
+  212  ls
+  213  cd ..
+  214  pwd
+  215  rm -r BhaktaDev
+  216  rm Devops
+  217  sudo rm -r Devops
+  218  rf -r Devops
+  219  rm -d Devops
+  220  ls
+  221  ls -l
+  222  rm -d BhaktaDev
+  223  rm -d Devops2024
+  224  rm -d BhaktaDevs
+  225  rm -d BhaktaDevops
+  226  ls 
+  227  rm -d BhaktaDevOps/
+  228  ls
+  229  rm -d Lishan/
+  230  rm -d Lishan
+  231  ls
+  232  rm -f Devops-roadmap.sh 
+  233  ls
+  234  '
+  235  backup....2024-02-12-04-1707771859.tar.gzc
+  236  ∂
+  237  ls
+  238  cd scripts/
+  239  ls
+  240  vim backups.sh 
+  241  ls
+  242  vim custom_loop.sh 
+  243  ./custom_loop.sh 
+  244  ./custom_loop.sh 1 90
+  245  ls
+  246  ls -l
+  247  pwd
+  248  vim backups.sh 
+  249  ./backups.sh 
+  250  vim backups.sh 
+  251  ./backups.sh 
+  252  vim backups.sh 
+  253  ./backups.sh 
+  254  vim backups.sh 
+  255  ./backups.sh 
+  256  vim backups.sh 
+  257  cd 
+  258  ls
+  259  cd backups/
+  260  ls
+  261  cd ..
+  262  ls
+  263  rm -f backups/
+  264  rm -d backups/
+  265  rm -d backups
+  266  ls -l
+  267  sudo rm -d backups/
+  268  sud -r backups
+  269  rm -r backups
+  270  ls
+  271  mkdir backups
+  272  ls
+  273  cd backups/
+  274  ls
+  275  cd ..
+  276  ls 
+  277  cd scripts/q
+  278  cd scripts/
+  279  ls
+  280  ./backups.sh 
+  281  vim backups.sh 
+  282  ./backups.sh 
+  283  vim backups.sh 
+  284  ./backups.sh 
+  285  cd 
+  286  ls
+  287  cd backups/
+  288  ls
+  289  tar cvfz backup date is : .2024-02-12-49-1707778192.tar.gz
+  290  tar -cvfz backup date is : .2024-02-12-49-1707778192.tar.gz
+  291  tar cvfz backup date is : .2024-02-12-49-1707778192.tar.gz
+  292  cd 
+  293  cd scripts/
+  294  vim backups.sh 
+  295  vim backups2.sh
+  296  pws
+  297  pwd
+  298  vim backups2.sh 
+  299  chmod 777 backups2.sh 
+  300  ./backups2.sh 
+  301  vim backups2.sh 
+  302  ./backups2.sh 
+  303  vim backups2.sh 
+  304  ./backups2.sh 
+  305  ls
+  306  cd 
+  307  ls
+  308  cat backups/
+  309  cd scripts/
+  310  ls
+  311  vim backups2.sh 
+  312  ls
+  313  ./backups2.sh 
+  314  cd 
+  315  ls
+  316  rm -d backups/
+  317  rm -r backups
+  318  ls
+  319  mkdir backups
+  320  ls
+  321  cd scripts/
+  322  ls
+  323  ./backups2.sh 
+  324  vim backups2.sh 
+  325  ./backups2.sh 
+  326  vim backups2.sh 
+  327  ./backups2.sh 
+  328  vim backups2.sh 
+  329  ./backups2.sh 
+  330  vim backups2.sh 
+  331  ./backups2.sh 
+  332  vim backups2.sh 
+  333  ./backups2.sh 
+  334  vim backups2.sh 
+  335  ./backups2.sh 
+  336  vim backups2.sh 
+  337  ./backups2.sh 
+  338  sudo apt-get install bzip2
+  339  ./backups2.sh 
+  340  vim backups2.sh 
+  341  ./backups2.sh 
+  342  vim backups2.sh 
+  343  ./backups2.sh 
+  344  vim backups2.sh 
+  345  ./backups2.sh 
+  346  wget http://download.eclipse.org/jetty/stable-9/dist/jetty-distribution-9.1.0.v20131115.tar.gz
+  347  tar tzf jetty-distribution-9.1.0.v20131115.tar.gz
+  348  wget http://download.eclipse.org/jetty/stable-9/dist/jetty-distribution-9.1.0.v20131115.tar.gz
+  349  tar tzf jetty-distribution-9.1.0.v20131115.tar.gz
+  350  udo wget http://eclipse.org/downloads/download.php?file=/jetty/stable-9/dist/jetty-distribution-9.1.0.v20131115.tar.gz&r=1
+  351  sudo wget http://eclipse.org/downloads/download.php?file=/jetty/stable-9/dist/jetty-distribution-9.1.0.v20131115.tar.gz&r=1
+  352  vim backups2.sh 
+  353  ./backups2.sh 
+  354  wget http://PATH_TO_ARCHIVE
+  355  sudo wget http://PATH_TO_ARCHIVE
+  356  vim backups2.sh 
+  357  ./backups2.sh 
+  358  vim backups2.sh 
+  359  ./backups2.sh 
+  360  vim backups2.sh 
+  361  ./backups2.sh 
+  362  cd ..
+  363  ls
+  364  cd backups/
+  365  ls
+  366  cd ..
+  367  ls
+  368  cd scripts/\
+  369  ls
+  370  ./backups2.sh 
+  371  ls
+  372  vim backups2.sh 
+  373  cd 
+  374  ls
+  375  cd ..
+  376  ls
+  377  cd ubuntu/
+  378  ls
+  379  cd backups/
+  380  ls
+  381  cd ..
+  382  ls
+  383  vim scripts/
+  384  cd scripts/
+  385  ls 
+  386  cd ..
+  387  rm -d scripts/
+  388  rm -d scripts
+  389  rm -r scripts
+  390  ls
+  391  cat scripts/
+  392  cd scripts/
+  393  ls
+  394  rm -d download.php\?file\=%2Fjetty%2Fstable-9%2Fdist%2Fjetty-distribution-9.1.0.v20131115.tar.gz
+  395  ls
+  396  cd ..
+  397  rm -d scripts
+  398  rm -r scripts
+  399  rm -r scripts/
+  400  ls
+  401  rmdir -r scripts/
+  402  rmdir scripts/
+  403  rmdir scripts
+  404  rmdir -R scripts/
+  405  rmdir -r scripts
+  406  sudo rm -r scripts/
+  407  ls
+  408  sudo rm -r backups/
+  409  ls 
+  410  mkdir scripts 
+  411  ls
+  412  cd scripts/
+  413  ls
+  414  cd scripts/
+  415  ls
+  416  vim custom.sh
+  417  chmod 777 custom.sh 
+  418  ./custom.sh 
+  419  ./custom.sh 1 10
+  420  vim custom.sh 
+  421  ./custom.sh 1 10
+  422  ld
+  423  ls
+  424  vim custom.sh 
+  425  ./custom.sh 1 10
+  426  ls
+  427  vim custom.sh 
+  428  ls
+  429  cd  
+  430  l
+  431  ls
+  432  mkdir new_backup
+  433  ls
+  434  cd new_backup/
+  435  ls
+  436  cd ..
+  437  ls -l
+  438  cd scripts/
+  439  ls
+  440  vim new_backup.sh
+  441  pwd
+  442  vim new_backup.sh 
+  443  ls
+  444  cd ..
+  445  ls
+  446  cd scripts/
+  447  ls
+  448  vim new_backup.sh 
+  449  chmod 777 new_backup.sh 
+  450  ./new_backup.sh 
+  451  vim new_backup.sh 
+  452  ./new_backup.sh 
+  453  vim new_backup.sh 
+  454  ./new_backup.sh 
+  455  cd ..
+  456  ls
+  457  cd new_backup/
+  458  ls
+  459  cd ..
+  460  ls
+  461  cd scripts/
+  462  ls
+  463  ./new_backup.sh 
+  464  vim new
+  465  ls
+  466  vim new_backup.sh 
+  467  ls
+  468  cd ..
+  469  ls
+  470  cd new_backup/
+  471  pwd
+  472  cd ..
+  473  cd scripts/
+  474  vim new_backup.sh 
+  475  ./new_backup.sh 
+  476  cd 
+  477  ls
+  478  mkdir 
+  479  mkdir Devops
+  480  ls
+  481  cd Devops/
+  482  ls
+  483  touch file{1..10}
+  484  ls
+  485  vim backup.sh
+  486  pwd
+  487  vim backup.sh 
+  488  cd ..
+  489  ls
+  490  sud rm -r new_backup/
+  491  sudo rm -d new_backup/
+  492  ls
+  493  sudo rm -d scripts/
+  494  sudo rm -d scripts
+  495  sudo rm -f scripts
+  496  sudo rmdir -d scripts
+  497  sudo rmdir -d scripts/
+  498  sudo rmdir -r scripts/
+  499  sudo rmdir -r scripts
+  500  sudo rm -r scripts
+  501  ls
+  502  mkdir backups
+  503  ls
+  504  cd backups/
+  505  ls
+  506  pwd
+  507  cd  ..
+  508  cd Devops/
+  509  ls
+  510  vim backup.sh 
+  511  chmod 777 backup.sh 
+  512  ./backup.sh 
+  513  vim backup.sh 
+  514  ./backup.sh 
+  515  cd 
+  516  ls
+  517  cd backups/
+  518  ls
+  519  cd ..
+  520  ls
+  521  cd Devops/
+  522  ls
+  523  vim backup.sh 
+  524  ls
+  525  vim backup.sh 
+  526  ls
+  527  cd ..
+  528  ls
+  529  cd backups/
+  530  ls
+  531  tar -xzcf backups\ file\ 2024-02-13-05-26-48.tar.gz 
+  532  tar -xzvf backups\ file\ 2024-02-13-05-26-48.tar.gz 
+  533  ls
+  534  cd home/
+  535  ls
+  536  cd ubuntu/
+  537  ls
+  538  cat Devops/
+  539  cd Devops/
+  540  ls
+  541  cd 
+  542  ls
+  543  cd backups/
+  544  ls
+  545  cd 
+  546  ls
+  547  cd Devops/
+  548  ls
+  549  pws
+  550  pwd
+  551  /home/ubuntu/Devops/backup.sh 
+  552  crontab -e
+  553  /home/ubuntu/Devops/backup.sh 
+  554  cd ..
+  555  cd backups/
+  556  ls
+  557  watch -n 1 ls
+  558  crontab -e 
+  559  watch -n 1 ls
+  560  ls
+  561  cd Devops/
+  562  ls
+  563  cd 
+  564  cd backups/
+  565  ls
+  566  git
+  567  git --version
+  568  apt-get upgrade -y
+  569  sudu apt-get upgrade -y
+  570  sudo apt-get upgrade -y
+  571  sudo apt-get update -y
+  572  git --version
+  573  ls
+  574  Devops status
+  575  git status 
+  576  ls
+  577  exi
+  578  exit
+  579  ls
+  580  mkdir git-projcet
+  581  ls
+  582  cat Devops/
+  583  cd Devops/
+  584  ls
+  585  cd 
+  586  ls
+  587  mv Devops git-projcet/
+  588  ls 
+  589  git
+  590  cd git-projcet/
+  591  ls
+  592  cd Devops/
+  593  ls
+  594  git init
+  595  ls -a
+  596  ls
+  597  cd ..
+  598  ls
+  599  rm -r Devops/
+  600  ls
+  601  project.txt
+  602  mkdir project.txt
+  603  ls
+  604  vim project.txt/
+  605  vim project.txt
+  606  rm -r project.txt/
+  607  ls
+  608  vim project.txt
+  609  ls
+  610  la -a
+  611  ls -a
+  612  git init
+  613  ls -a
+  614  git status
+  615  ls -a
+  616  vim project2.txt
+  617  ls
+  618  git add project.txt 
+  619  git status
+  620  git add project2.txt 
+  621  ls -a
+  622  git staus
+  623  git status
+  624  git commit -m "feature: important file and project"
+  625  touch file.txt
+  626  ls
+  627  git add file.txt 
+  628  git status 
+  629  ls
+  630  rm -r file.txt 
+  631  ls
+  632  git staus
+  633  git status
+  634  git restore file.txt
+  635  ls
+  636  git status
+  637  rm -r file.txt 
+  638  ls
+  639  git status
+  640  git restore file.txt
+  641  ls
+  642  git status
+  643  git add file.txt 
+  644  git status
+  645  git commit file.txt 
+  646  git commit -m "fix: issue file"
+  647  git status
+  648  tree
+  649  apt install tree -y
+  650  sudo apt install tree -y
+  651  tree
+  652  git status
+  653  ls
+  654  git status
+  655  cd git-projcet/
+  656  ls
+  657  git status
+  658  git --version
+  659  tree
+  660  ls
+  661  cd ..
+  662  ls
+  663  git status
+  664  cd git-projcet/
+  665  git status
+  666  git branch 
+  667  git checkout -b dev
+  668  git status
+  669  git checkout 
+  670  git status
+  671  git checkout master
+  672  git status
+  673  git branch 
+  674  list branch
+  675  list branches
+  676  git branch
+  677  git branch*
+  678  git branch *
+  679  git branch 
+  680  kwelkwe
+  681  git diff
+  682  git status
+  683  git branch
+  684  ls
+  685  cd dev
+  686  vim file.txt 
+  687  git commit -m " added new fixe rule"
+  688  git status
+  689  git diff
+  690  git status
+  691  git add file.txt 
+  692  git status
+  693  git commit -m "added: new features has been added in file.txt"
+  694  git log
+  695  vim file.txt 
+  696  git status
+  697  git add file.txt 
+  698  git status 
+  699  git commit -m "features: added new features"
+  700  git diff 
+  701  git config --global user.name "DevOpsBhakta"
+  702  git 
+  703  git config --global user.email "Devospbhakta@gmail.com"
+  704  git status
+  705  git log
+  706  vim file.txt 
+  707  git add file.txt 
+  708  git commit -m "fixed: new fetaures"
+  709  git status
+  710  git log
+  711  git log --online
+  712  git log --oneline
+  713  git log --oneline --pretty 
+  714  sudo apt upgrade -y
+  715  ls
+  716  cd git-projcet/
+  717  ls
+  718  git status
+  719  git checkout 
+  720  git status 
+  721  tree
+  722  ls
+  723  git checkout master
+  724  git status
+  725  git branch
+  726  ls
+  727  cd ..
+  728  git clone https://github.com/Bhaktabahadurthapa/DevOpsNotes.git
+  729  ls 
+  730  cd DevOpsNotes/
+  731  ls
+  732  cat devopsfile.txt 
+  733  vim devopsfile.txt 
+  734  ls
+  735  cd ..
+  736  ls
+  737  git status
+  738  cd git-projcet/
+  739  ls
+  740  git status
+  741  cd ..
+  742  git status
+  743  git clone https://github.com/Bhaktabahadurthapa/DevOpsNotes.git
+  744  ls
+  745  rm -r DevOpsNotes/
+  746  ls
+  747  cd DevOpsNotes/
+  748  ls
+  749  git status
+  750  cd ..
+  751  rm -rf DevOpsNotes/
+  752  ls
+  753  git clone https://github.com/Bhaktabahadurthapa/DevOpsNotes.git
+  754  ls 
+  755  git status
+  756  cd DevOpsNotes/
+  757  ls
+  758  git status
+  759  ls
+  760  cd DevOpsNotes/
+  761  ls
+  762  cat Secondfile 
+  763  cat devopsfile.txt 
+  764  ls
+  765  git pull origin main
+  766  ls
+  767  git log
+  768  vim localfile.txt
+  769  ls
+  770  cd ..
+  771  cd .ssh/
+  772  ls
+  773  sshkeygen
+  774  ssh-keygen
+  775  ls
+  776  cat github.pub 
+  777  cd ..
+  778  ls
+  779  mkdir newupdate
+  780  cd newupdate/
+  781  git clone git@github.com:Bhaktabahadurthapa/DevOpsNotes.git
+  782  cd ..
+  783  cd .ssh/
+  784  ls
+  785  cd DevOpsNotes/
+  786  ls
+  787  git add 
+  788  git add localfile.txt 
+  789  git commit -m "fixe: issed"
+  790  git push -u origin master
+  791  git push -f origin master
+  792  git push origin main
+  793  git push -u origin main 
+  794  ls
+  795  git origin -u main
+  796  git push origin -u main
+  797  git remote -v
+  798  git remote set-url origin https://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@github.com/Bhaktabahadurthapa/DevOpsNotes.git (push)
+  799  git remote set-url origin https://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@github.com/Bhaktabahadurthapa/DevOpsNotes.git
+  800  git push origin main
+  801  ls
+  802  vim secondlocal.txt
+  803  git add secondlocal.txt 
+  804  git commit -m "second"
+  805  git push origin main
+  806  histry
+  807  history 
+  808  ls
+  809  history > Linuxnote 
